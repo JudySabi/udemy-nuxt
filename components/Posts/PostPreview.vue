@@ -1,4 +1,9 @@
 <template>
+  <!-- /!\  -->
+  <!-- :to="postLink" ne marchent pas, revoir vidéo à partir de la vidéo 35 -->
+  <!-- le path de isAdmin ?  -->
+  <!-- /!\  -->
+
   <nuxt-link :to="postLink" class="post-preview">
     <article>
       <div
